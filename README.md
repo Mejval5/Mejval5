@@ -35,9 +35,11 @@
 [![CapCut](https://img.shields.io/badge/CapCut-black?style=for-the-badge&logo=openzfs)](https://github.com/Mejval5)
 [![Audacity](https://img.shields.io/badge/Audacity-black?style=for-the-badge&logo=Audacity)](https://github.com/Mejval5)
 
-`### IDEs
+<!--
+### IDEs
 [![Rider](https://img.shields.io/badge/rider-black?style=for-the-badge&logo=rider)](https://github.com/Mejval5)
-[![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/Mejval5)`
+[![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/Mejval5)
+-->
 
 ### Web Frameworks
 [![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs)](https://github.com/Mejval5)
