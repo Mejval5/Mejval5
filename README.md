@@ -22,13 +22,11 @@
 </p>
 
 ### Languages
+[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/Mejval5)
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/Mejval5)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Mejval5)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Mejval5)
 [![Matlab](https://img.shields.io/badge/matlab-black?style=for-the-badge&logo=wolframmathematica)](https://github.com/Mejval5)
-
-### Game Development
-[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/Mejval5)
 [![Unreal](https://img.shields.io/badge/unreal%20engine-black?style=for-the-badge&logo=unrealengine)](https://github.com/Mejval5)
 
 ### Software
@@ -37,9 +35,9 @@
 [![CapCut](https://img.shields.io/badge/CapCut-black?style=for-the-badge&logo=openzfs)](https://github.com/Mejval5)
 [![Audacity](https://img.shields.io/badge/Audacity-black?style=for-the-badge&logo=Audacity)](https://github.com/Mejval5)
 
-### IDEs
+`### IDEs
 [![Rider](https://img.shields.io/badge/rider-black?style=for-the-badge&logo=rider)](https://github.com/Mejval5)
-[![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/Mejval5)
+[![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/Mejval5)`
 
 ### Web Frameworks
 [![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs)](https://github.com/Mejval5)
