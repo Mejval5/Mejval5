@@ -22,27 +22,13 @@
 </p>
 
 ### Languages
-[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/Mejval5)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Mejval5)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Mejval5)
-[![Matlab](https://img.shields.io/badge/matlab-black?style=for-the-badge&logo=wolframmathematica)](https://github.com/Mejval5)
+C#, Python, TypeScript, PowerShell, Kotlin, HLSL, C++, JavaScript, SQL
 
-### Software
-[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/Mejval5)
-[![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop)](https://github.com/Mejval5)
-[![InkScape](https://img.shields.io/badge/InkScape-black?style=for-the-badge&logo=InkScape)](https://github.com/Mejval5)
-[![CapCut](https://img.shields.io/badge/CapCut-black?style=for-the-badge&logo=openzfs)](https://github.com/Mejval5)
-[![Audacity](https://img.shields.io/badge/Audacity-black?style=for-the-badge&logo=Audacity)](https://github.com/Mejval5)
-[![Unreal](https://img.shields.io/badge/unreal%20engine-black?style=for-the-badge&logo=unrealengine)](https://github.com/Mejval5)
+### Technical Skills
+Full Stack Development, SW Architecture, TDD, Scrum, Kanban, Data engineering, Cloud computing, UI Development, VR, Graphical Optimization, Compute Shaders, 2D/3D Vector Math, Automated Testing and Deployment, CI/CD automation
 
-<!--
-### IDEs
-[![Rider](https://img.shields.io/badge/rider-black?style=for-the-badge&logo=rider)](https://github.com/Mejval5)
-[![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/Mejval5)
--->
+### Tools and frameworks:
+Git, .NET, Rider, Jenkins, Firebase, GitHub, Azure, Atlassian Suite, Miro, Figma, Lucid, Blender, Photoshop, CapCut, Unity, Unreal Engine, Copilot, Stable Diffusion, Matrix Requirements, SVN, Markdown, Inno Setup, NUnit
 
-### Web Frameworks
-[![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs)](https://github.com/Mejval5)
-[![Vuetify](https://img.shields.io/badge/vuetify-black?style=for-the-badge&logo=vuetify)](https://github.com/Mejval5)
-[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)](https://github.com/Mejval5)
-[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)](https://github.com/Mejval5)
+### Web technology
+Node.js, Vue.js, ASP.NET, Django, HTML, CSS, MongoDB, REST APIs
